@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/local/bin/node
 /*
     Print a square with the character #
     
